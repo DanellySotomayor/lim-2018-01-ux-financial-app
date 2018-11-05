@@ -273,7 +273,7 @@ Al crear una meta de ahorro, pusimos los siguientes campos: nombre de tu meta, c
 [Ingresa al prototipo de iOS](https://www.figma.com/proto/Y4eP4bEHHrvvYyOgx469Oo/Financial-App---Apple?scaling=scale-down) <br>
 [Ingresa al prototipo de Android](https://www.figma.com/proto/WdDpSO2tP3x0YZsCCKJEomEk/Financial-App---Android?node-id=0%3A1&scaling=scale-down) <br>
 
-![Prototipo Android](img/prototipo-android.jpg)
+![Prototipo Android](img/foodmap-financial.jpg)
 
 ## **Testing**
 
